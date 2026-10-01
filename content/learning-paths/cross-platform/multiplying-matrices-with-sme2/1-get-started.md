@@ -321,6 +321,8 @@ These Android phones support SME2 natively.
 | Samsung Galaxy S26                  | 2026         | Exynos 2600 variant |
 | Vivo X300                           | 2025         | MediaTek Dimensity 9500 featuring an 8-core Arm C1 CPU cluster and Arm G1-Ultra GPU |
 | OPPO Find X9                        | 2025         | MediaTek Dimensity 9500 featuring an 8-core Arm C1 CPU cluster and Arm G1-Ultra GPU |
+| Poco X8 Pro Max                     | 2026         | MediaTek Dimensity 9500 featuring an 8-core Arm C1 CPU cluster and Arm G1-Ultra GPU |
+| Xiaomi 18 Fold                      | 2026         | XRing O3                                                                            |
 
 These Apple devices support SME2 natively.
 
